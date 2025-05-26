@@ -1,6 +1,6 @@
 # Data-pre
 # Task 1: Data Cleaning & Preprocessing
-# Author: Your Name
+# Author: Rashmi Risha.J
 
 import pandas as pd
 import seaborn as sns
